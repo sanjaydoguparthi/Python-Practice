@@ -4,7 +4,7 @@ New file for explanation.
 
 2nd file is changed.check once
 one more change is added
-new file for clear explanation
+new file for clear explanation in cammand
 1st file changed to 2nd file
 new file for fully explanation...
 chane code effectively
