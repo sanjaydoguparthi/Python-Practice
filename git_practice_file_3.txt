@@ -3,8 +3,8 @@ git_practice_file_3 /
 python practice
 python practice
 
-python practice///
+python practice
 
-python practice///
+python practice
 
-python practice///
+python practice  
