@@ -3,6 +3,6 @@
 
 
 
-python practice//...>git
-python practice//..>git
-python practice//..>git
+python practice//...>git.
+python practice//..>git.
+python practice//..>git.
