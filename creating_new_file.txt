@@ -1,12 +1,1 @@
-python practice//...>git.
-
-python practice//...>git.
-
-python practice//...>git.
-<<<<<<< HEAD
-=======
-
-python practice//..>git.
-
-python practice//..>git.
->>>>>>> d2d5a3d51dea4a82e97fb414af9f852b7435dbb4
+what is the use of git software
