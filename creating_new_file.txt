@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-=======
-python practice//...>git.
-
->>>>>>> 03cb5f4c49ff75425b8b5b9541b95af7dbfe9369
-python practice//...>git.
-
-python practice//...>git.
-<<<<<<< HEAD
-=======
-
-python practice//..>git.
-
-python practice//..>git.
-
+when did i use git software
