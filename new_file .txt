@@ -1,2 +1,3 @@
-
 Who connects the devices to the network?
+The IT team connects the devices.
+
