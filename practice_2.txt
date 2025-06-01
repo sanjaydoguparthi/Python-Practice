@@ -1,1 +1,3 @@
 WE ARE PRACTICING BRANCHING IN GIT TODAY 
+
+What did you like most about Paris? 
