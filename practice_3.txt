@@ -1,9 +1,7 @@
-# Program to check if a number is prime or not
+task:3---completed
 
-num = 29
 
-# To take input from the user
-#num = int(input("Enter a number: "))
+
 
 # define a flag variable
 flag = False
@@ -27,3 +25,6 @@ elif num > 1:
 		
 		
     task:3---completed
+
+new_feature_branching-3
+
