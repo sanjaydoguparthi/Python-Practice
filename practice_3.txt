@@ -26,5 +26,5 @@ elif num > 1:
 		
     task:3---completed
 
-new_feature_branching-3. new branch created. what do you feel.
+new_feature_branching-3. new branch created. what do you feel. why do you think too much.
 
